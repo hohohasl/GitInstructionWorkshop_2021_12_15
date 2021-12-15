@@ -14,6 +14,20 @@ _(также используется определение «система к
 
 ## Установка git и VSCode на ваш ПК.
 
+*  Скачать с официального сайта git: https://git-scm.com/downloads
+
+* VSCode: https://code.visualstudio.com/download
+
+## Работа с VSCode:
+
+1. Открыть терминал
+2. Перед началом работы инициализировать свои данные в терминале через команды: ```git config user.name```
+и ```git config user.mail```
+
+
+
+
+
 ### Установка VSCode на ваш ПК.
 
 ### Установка git на ваш ПК
